@@ -1,0 +1,14 @@
+{
+  "name": "lootvault-challenge",
+  "version": "1.0.0",
+  "description": "Home Challenge - Mision 29 - Testing y Debug",
+  "main": "server.js",
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
